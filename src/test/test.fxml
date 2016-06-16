@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="test.TestController">
+   <children>
+      <Label layoutX="288.0" layoutY="44.0" text="Label" />
+      <Button layoutX="415.0" layoutY="215.0" mnemonicParsing="false" onAction="#login" text="Button" />
+      <TextField layoutX="203.0" layoutY="94.0" prefHeight="25.0" prefWidth="277.0" />
+      <TextField layoutX="203.0" layoutY="152.0" prefHeight="25.0" prefWidth="277.0" />
+      <Label layoutX="123.0" layoutY="99.0" text="Label" />
+      <Label layoutX="123.0" layoutY="157.0" text="Label" />
+   </children>
+</AnchorPane>
